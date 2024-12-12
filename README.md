@@ -1,4 +1,5 @@
-# Redux Toolkit Basic Application
+# [Redux Toolkit Basic Application](https://redux-toolkit-xi-one.vercel.app/)
+# [Try Out](https://redux-toolkit-xi-one.vercel.app/)
 
 This project demonstrates the basic usage of **Redux Toolkit (RTK)** in a React application. It utilizes a fake API dataset and provides simple functionalities to:
 
